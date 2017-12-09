@@ -1,0 +1,7 @@
+D:\ProyectosVisual\CAP3\Lab10\Lab10\bin\Debug\Lab10.exe.config
+D:\ProyectosVisual\CAP3\Lab10\Lab10\bin\Debug\Lab10.exe
+D:\ProyectosVisual\CAP3\Lab10\Lab10\bin\Debug\Lab10.pdb
+D:\ProyectosVisual\CAP3\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\CAP3\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+D:\ProyectosVisual\CAP3\Lab10\Lab10\obj\Debug\Lab10.exe
+D:\ProyectosVisual\CAP3\Lab10\Lab10\obj\Debug\Lab10.pdb
